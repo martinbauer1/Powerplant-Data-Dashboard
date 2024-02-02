@@ -70,7 +70,7 @@ In this view, the map displays blue bubbles across the United States, which repr
 
 Although there is a relatively small number of nuclear powerplants in the US (58) compared to other fuel types, they still generated a lot of power (~786K in gwh or gigawatts per hour). Illinois has the most nuclear powerplants in the US at 6 and generates the most nuclear power in the US at about 99K in gwh. It also shows that generation from nuclear powerplants increased +0.18% in 2016 compared to that in 2015.
 
-### US Nuclear Powerplants: Niagara Falls
+### US Hydro Powerplants: Niagara Falls
 ![PP_niagara](https://github.com/martinbauer1/Powerplant-Data-Dashboard/assets/154390228/17ba5d4b-f6e5-4337-9d95-1f0266f21285)
 
 Another interesting insight is that a plant in Niagara Falls generates one of the highest amounts of hydro energy. This plant's name is the Robert Moses Niagara plant, and in 2016, it generated roughly 15K in gwh, which amounted to 6% of the total US hydro energy output.
