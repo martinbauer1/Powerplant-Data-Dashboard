@@ -43,6 +43,11 @@ The biggest problem with this dataset is that it does not paint the most accurat
 
 - Created visualizations in PowerBI using the data and measures to better understand how powerplants might differ across the world as it pertains to number of plants, energy sources, capacity, and generation.
 
+# Definitions
+- Generation (in gwh): the electrical power that is generated from different fuel types (such as: Coal, Oil, etc.) and is measured in gwh or gigawatts per hour
+- Reported generation: how much power was generated based on the data provided by government agencies and energy bureaus worldwide
+- Estimated generation: an estimate of how much power was generated based sourced data from government agencies worldwide
+  
 # Insights
 
 ## Global Generation by Fuel Type
