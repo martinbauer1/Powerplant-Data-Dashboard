@@ -19,11 +19,11 @@ The biggest problem with this dataset is that it does not paint the most accurat
 
 - Transformed the datasets using Power Query editor; ensuring data consistency and quality using query features
 
-- Cleaned the dataset by eliminating outliers, blank values and selecting data types for each column
+- Cleaned the dataset by eliminating outliers, blank values and editing data types for each column
 
-- Configured a query to call Rest API from Bing maps in order to convert a specific point (longitude/latitude) into an address
+- Configured queries to call Rest API from Bing maps in order to convert specific points (longitude/latitude) into addresses
 
-        - This enables the functionality for the Azure maps within PowerBI
+        - This is done due to the nature of the Azure map features found in PowerBI
         - Getting the address allows for more geographic analysis such as: continent, country, city, etc. 
 
 - Loaded the data into the report view and created the model using a star schema design:
